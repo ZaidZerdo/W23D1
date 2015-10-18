@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerProject</string>
+    <string name="Surname" />
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="add_text">Add a person</string>
+    <string name="add_button">Add</string>
+    <string name="delete">Delete</string>
+</resources>
